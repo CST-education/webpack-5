@@ -2,4 +2,7 @@
 // --------------------------------- ДОСТУПЫ ----------------------------------
 // ----------------------------------------------------------------------------
 
-export default []
+export default {
+  list: document.getElementById('list'),
+  input: document.getElementById('input'),
+}
